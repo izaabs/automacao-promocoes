@@ -1,0 +1,31 @@
+{
+    "produtos": [
+        {
+            "nome": "Epidrat Calm B5 50ml",
+            "palavras_chave": [
+                "hidratante facial",
+                "epidrat",
+                "calm B5",
+                "50ml"
+            ]
+        },
+        {
+            "nome": "Epidrat Hydraporin AI 450ml",
+            "palavras_chave": [
+                "Hidratante Corporal",
+                "Epidrat",
+                "Hydraporin AI",
+                "450ml"
+            ]
+        },
+        {
+            "nome": "Bepantol Derma Hidratante 40g",
+            "palavras_chave": [
+                "Bepantol Derma",
+                "Hidratante",
+                "Multirrestaurador",
+                "40g"
+            ]
+        }
+    ]
+}

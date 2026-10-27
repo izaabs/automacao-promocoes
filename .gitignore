@@ -1,0 +1,4 @@
+.env
+perfil_whatsapp/
+__pycache__/
+historico.json
